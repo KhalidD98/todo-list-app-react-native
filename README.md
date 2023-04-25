@@ -1,4 +1,9 @@
 # **Todolist App**
+
+Simple project to learn React Native
+
+---
+
 ## Tools used
 - [React Native](https://reactnative.dev/)
 - [Typescript](https://www.typescriptlang.org/)
